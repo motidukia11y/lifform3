@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
-    var liffId = "1655603361-XRGMY1Mp";
-    initializeLiff(liffId);
+  var liffId = "1655603361-XRGMY1Mp";
+ initializeLiff(liffId);
 })
 
 function initializeLiff(liffId) {
